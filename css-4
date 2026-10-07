@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Galada';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/galada/v21/H4cmBXyGmcjXlUXO9SY6.ttf) format('truetype');
+}
